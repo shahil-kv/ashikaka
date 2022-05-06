@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Spectral
+- Font Author: Copyright 2017 The Spectral Project Authors (http://github.com/productiontype/spectral)
+- Font Source: http://fonts.gstatic.com/s/spectral/v12/rnCr-xNNww_2s0amA-M-mHnOSOuk.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
